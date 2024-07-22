@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Abdullah Malik
 - I'm a passionate coder and developer.
 - I am majorly interested Development fields i.e game development, web development and software development.
-- Many of my personal projects are also software related you can view them in my profile.
+- Many of my personal projects are also development related you can view them in my profile.
 - You can contact me on my mail Abdullahmalik4641@gmail.com 
 
 

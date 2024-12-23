@@ -3,4 +3,3 @@
 - I have worked on numerous personal projects that reflect my dedication and skills in these areas. 
 - You can explore my projects and see the work I've done on my profile.
 - Feel free to contact me at Abdullahmalik4641@gmail.com.
-- <img alt="My Stats" src="https://github-readme-stats.vercel.app/api?username=ABDmalik6605&show_icons=true&theme=radical"/>

@@ -5,4 +5,4 @@
 - Feel free to contact me at Abdullahmalik4641@gmail.com.
 #
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ABDmalik6605&theme=radical)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ABDmalik6605&theme=radical)  ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ABDmalik6605&theme=highcontrast&utcOffset=8)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ABDmalik6605&theme=radical)  ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ABDmalik6605&theme=radical&utcOffset=8)
